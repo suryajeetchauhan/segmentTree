@@ -21,4 +21,5 @@ long long product(long long x,long long y){return x*y;}
 SegmentTree < long long > rangeProductQueries(dataVector,1,product);
 
 solution to SPOJ GSS1 using segTree library : https://ideone.com/EFxf6O
+
 solution to SPOJ KGSS using segTree library : https://ideone.com/fUK5Jz
